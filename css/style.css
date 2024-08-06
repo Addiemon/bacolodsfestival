@@ -44,7 +44,7 @@ a {
 }
 
 .custom-navbar {
-  background: #ffff;
+  background: #ffffff;
   padding-top: 20px;
   padding-bottom: 20px; }
   .custom-navbar .navbar-brand {
@@ -276,7 +276,7 @@ background-image: url("../images/home_slide_1.png");
       right: 0;
       position: absolute;
       content: "";
-      background: #dce5e4;
+      background: #E6E6D7;
       height: 0%;
       z-index: -1;
       border-radius: 10px;
@@ -431,7 +431,7 @@ background: #E3E3E3}
       content: "";
       position: absolute;
       border-radius: 20px;
-      background: #dce5e4;
+  background: #000000;
       width: 98px;
       height: 98px;
       top: 50%;
